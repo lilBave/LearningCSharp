@@ -1,12 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-namespace Lesson1
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
