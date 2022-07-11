@@ -1,0 +1,15 @@
+E:\CD\CifreAcademy\Lesson1\bin\Debug\net6.0\Lesson1.exe
+E:\CD\CifreAcademy\Lesson1\bin\Debug\net6.0\Lesson1.deps.json
+E:\CD\CifreAcademy\Lesson1\bin\Debug\net6.0\Lesson1.runtimeconfig.json
+E:\CD\CifreAcademy\Lesson1\bin\Debug\net6.0\Lesson1.dll
+E:\CD\CifreAcademy\Lesson1\bin\Debug\net6.0\Lesson1.pdb
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.csproj.AssemblyReference.cache
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.AssemblyInfoInputs.cache
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.AssemblyInfo.cs
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.csproj.CoreCompileInputs.cache
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.dll
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\refint\Lesson1.dll
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.pdb
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\Lesson1.genruntimeconfig.cache
+E:\CD\CifreAcademy\Lesson1\obj\Debug\net6.0\ref\Lesson1.dll
