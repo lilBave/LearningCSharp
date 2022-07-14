@@ -1,0 +1,15 @@
+E:\CD\CifreAcademy\HomeWork2\bin\Debug\net6.0\HomeWork2.exe
+E:\CD\CifreAcademy\HomeWork2\bin\Debug\net6.0\HomeWork2.deps.json
+E:\CD\CifreAcademy\HomeWork2\bin\Debug\net6.0\HomeWork2.runtimeconfig.json
+E:\CD\CifreAcademy\HomeWork2\bin\Debug\net6.0\HomeWork2.dll
+E:\CD\CifreAcademy\HomeWork2\bin\Debug\net6.0\HomeWork2.pdb
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.csproj.AssemblyReference.cache
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.AssemblyInfoInputs.cache
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.AssemblyInfo.cs
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.csproj.CoreCompileInputs.cache
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.dll
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\refint\HomeWork2.dll
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.pdb
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\HomeWork2.genruntimeconfig.cache
+E:\CD\CifreAcademy\HomeWork2\obj\Debug\net6.0\ref\HomeWork2.dll
